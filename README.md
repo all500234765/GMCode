@@ -8,3 +8,13 @@ Code editor made with game maker studio 2
 
 Fellout API
 ![meow](https://media.discordapp.net/attachments/354957629597941760/424643206374883354/unknown.png)
+
+Ver 1.0
+- (OLD) Fellout list API
+- (OLD) Text box API
+- Console window
+- Drag window around
+- (Bugged) Manipulate window with WIN + Arrow keys
+- File name check before updating it
+
+
