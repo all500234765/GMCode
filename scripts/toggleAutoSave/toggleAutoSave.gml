@@ -1,0 +1,2 @@
+global.Values[? "autoSave"] ^= true;
+
